@@ -3,74 +3,74 @@
     {
       "id": 1,
       "artist": "Tremonti",
-      "album_name": "Dust",
-      "on_sale": true,
+      "albumName": "Dust",
+      "onSale": 1,
       "price": 11.99,
       "year": 2016,
-      "release_date": "April 29, 2016",
-      "recording-location": "Studio Barbarosa, Orlando, FL",
+      "releaseDate": "April 29, 2016",
+      "recordLocation": "Studio Barbarosa, Orlando, FL",
       "genre": "Pop/Rock",
       "duration": "43:18:00",
-      "URL": "https://www.allmusic.com/album/dust-mw0002918360",
+      "url": "https://www.allmusic.com/album/dust-mw0002918360",
       "tracks": [
         {
           "id": 1,
-          "track_number": 1,
-          "Title": "My Last Mistake",
+          "trackNumber": 1,
+          "title": "My Last Mistake",
           "length": "4:30"
         },
         {
           "id": 1,
-          "track_number": 2,
-          "Title": "The Cage",
+          "trackNumber": 2,
+          "title": "The Cage",
           "length": "3:35"
         },
         {
           "id": 1,
-          "track_number": 3,
-          "Title": "Once Dead",
+          "trackNumber": 3,
+          "title": "Once Dead",
           "length": "3:05"
         },
         {
           "id": 1,
-          "track_number": 4,
-          "Title": "Dust",
+          "trackNumber": 4,
+          "title": "Dust",
           "length": "5:21"
         },
         {
           "id": 1,
-          "track_number": 5,
-          "Title": "Betray Me",
+          "trackNumber": 5,
+          "title": "Betray Me",
           "length": "4:04"
         },
         {
           "id": 1,
-          "track_number": 6,
-          "Title": "Tore My Heart Out",
+          "trackNumber": 6,
+          "title": "Tore My Heart Out",
           "length": "5:07"
         },
         {
           "id": 1,
-          "track_number": 7,
-          "Title": "Catching Fire",
+          "trackNumber": 7,
+          "title": "Catching Fire",
           "length": "4:41"
         },
         {
           "id": 1,
-          "track_number": 8,
-          "Title": "Never Wrong",
+          "trackNumber": 8,
+          "title": "Never Wrong",
           "length": "4:41"
         },
         {
           "id": 1,
-          "track_number": 9,
-          "Title": "Rising Storm",
+          "trackNumber": 9,
+          "title": "Rising Storm",
           "length": "3:17"
         },
         {
           "id": 1,
-          "track_number": 10,
-          "Title": "Unable to See",
+          "trackNumber": 10,
+          "title": "Unable to See",
           "length": "4:57"
         }
       ]
@@ -78,74 +78,74 @@
     {
       "id": 2,
       "artist": "Bon Jovi",
-      "album_name": "7800 Fahrerenheit",
-      "on_sale": false,
+      "albumName": "7800 Fahrerenheit",
+      "onSale": 0,
       "price": 7,
       "year": 1985,
-      "release_date": "April 20, 1985",
-      "recording-location": "Warehouse, Philadelphia, PA",
+      "releaseDate": "April 20, 1985",
+      "recordLocation": "Warehouse, Philadelphia, PA",
       "genre": "Pop/Rock",
       "duration": "47:15:00",
-      "URL": "https://www.allmusic.com/album/7800%C2%B0-fahrenheit-mw0000189199",
+      "url": "https://www.allmusic.com/album/7800%C2%B0-fahrenheit-mw0000189199",
       "tracks": [
         {
           "id": 2,
-          "track_number": 1,
-          "Title": "In and Out of Love",
+          "trackNumber": 1,
+          "title": "In and Out of Love",
           "length": "4:27"
         },
         {
           "id": 2,
-          "track_number": 2,
-          "Title": "The Price of Love",
+          "trackNumber": 2,
+          "title": "The Price of Love",
           "length": "4:14"
         },
         {
           "id": 2,
-          "track_number": 3,
-          "Title": "Only Lonely",
+          "trackNumber": 3,
+          "title": "Only Lonely",
           "length": "5:00"
         },
         {
           "id": 2,
-          "track_number": 4,
-          "Title": "King of the Mountain",
+          "trackNumber": 4,
+          "title": "King of the Mountain",
           "length": "3:53"
         },
         {
           "id": 2,
-          "track_number": 5,
-          "Title": "Silent Night",
+          "trackNumber": 5,
+          "title": "Silent Night",
           "length": "5:07"
         },
         {
           "id": 2,
-          "track_number": 6,
-          "Title": "Tokyo Road",
+          "trackNumber": 6,
+          "title": "Tokyo Road",
           "length": "5:41"
         },
         {
           "id": 2,
-          "track_number": 7,
-          "Title": "The Hardest Part Is the Night",
+          "trackNumber": 7,
+          "title": "The Hardest Part Is the Night",
           "length": "4:25"
         },
         {
           "id": 2,
-          "track_number": 8,
-          "Title": "Always Run to You",
+          "trackNumber": 8,
+          "title": "Always Run to You",
           "length": "5:00"
         },
         {
           "id": 2,
-          "track_number": 9,
-          "Title": "(I Don't Wanna Fall) To the Fire",
+          "trackNumber": 9,
+          "title": "(I Don't Wanna Fall) To the Fire",
           "length": "4:27"
         },
         {
           "id": 2,
-          "track_number": 10,
-          "Title": "Secret Dreams",
+          "trackNumber": 10,
+          "title": "Secret Dreams",
           "length": "4:56"
         }
       ]
@@ -153,194 +153,194 @@
     {
       "id": 3,
       "artist": "The Beatles",
-      "album_name": "The White Album",
-      "on_sale": true,
+      "albumName": "The White Album",
+      "onSale": 1,
       "price": 12,
       "year": 1968,
-      "release_date": "November 22, 1968",
-      "recording-location": "",
+      "releaseDate": "November 22, 1968",
+      "recordLocation": "",
       "genre": "Pop/Rock",
       "duration": "1:33:43",
-      "URL": "https://www.allmusic.com/album/the-beatles-white-album-mw0000418113",
+      "url": "https://www.allmusic.com/album/the-beatles-white-album-mw0000418113",
       "tracks": [
         {
           "id": 3,
-          "track_number": 1,
-          "Title": "Back in the U.S.S.R.",
+          "trackNumber": 1,
+          "title": "Back in the U.S.S.R.",
           "length": "2:43"
         },
         {
           "id": 3,
-          "track_number": 2,
-          "Title": "Dear Prudence",
+          "trackNumber": 2,
+          "title": "Dear Prudence",
           "length": "3:55"
         },
         {
           "id": 3,
-          "track_number": 3,
-          "Title": "Glass Onion",
+          "trackNumber": 3,
+          "title": "Glass Onion",
           "length": "2:18"
         },
         {
           "id": 3,
-          "track_number": 4,
-          "Title": "Ob-La-Di, Ob-La-Da",
+          "trackNumber": 4,
+          "title": "Ob-La-Di, Ob-La-Da",
           "length": "3:09"
         },
         {
           "id": 3,
-          "track_number": 5,
-          "Title": "Wild Honey Pie",
+          "trackNumber": 5,
+          "title": "Wild Honey Pie",
           "length": "0:53"
         },
         {
           "id": 3,
-          "track_number": 6,
-          "Title": "The Continuing Story of Bungalow Bill",
+          "trackNumber": 6,
+          "title": "The Continuing Story of Bungalow Bill",
           "length": "3:14"
         },
         {
           "id": 3,
-          "track_number": 7,
-          "Title": "While My Guitar Gently Weeps",
+          "trackNumber": 7,
+          "title": "While My Guitar Gently Weeps",
           "length": "4:45"
         },
         {
           "id": 3,
-          "track_number": 8,
-          "Title": "Happiness Is a Warm Gun",
+          "trackNumber": 8,
+          "title": "Happiness Is a Warm Gun",
           "length": "2:43"
         },
         {
           "id": 3,
-          "track_number": 9,
-          "Title": "Martha My Dear",
+          "trackNumber": 9,
+          "title": "Martha My Dear",
           "length": "2:28"
         },
         {
           "id": 3,
-          "track_number": 10,
-          "Title": "I’m So Tired",
+          "trackNumber": 10,
+          "title": "I’m So Tired",
           "length": "2:03"
         },
         {
           "id": 3,
-          "track_number": 11,
-          "Title": "Blackbird",
+          "trackNumber": 11,
+          "title": "Blackbird",
           "length": "2:18"
         },
         {
           "id": 3,
-          "track_number": 12,
-          "Title": "Piggies",
+          "trackNumber": 12,
+          "title": "Piggies",
           "length": "2:03"
         },
         {
           "id": 3,
-          "track_number": 13,
-          "Title": "Rocky Raccoon",
+          "trackNumber": 13,
+          "title": "Rocky Raccoon",
           "length": "3:33"
         },
         {
           "id": 3,
-          "track_number": 14,
-          "Title": "Don't Pass Me By",
+          "trackNumber": 14,
+          "title": "Don't Pass Me By",
           "length": "3:49"
         },
         {
           "id": 3,
-          "track_number": 15,
-          "Title": "Why Don't We Do It in the Road",
+          "trackNumber": 15,
+          "title": "Why Don't We Do It in the Road",
           "length": "1:41"
         },
         {
           "id": 3,
-          "track_number": 16,
-          "Title": "I Will",
+          "trackNumber": 16,
+          "title": "I Will",
           "length": "1:45"
         },
         {
           "id": 3,
-          "track_number": 17,
-          "Title": "Julia",
+          "trackNumber": 17,
+          "title": "Julia",
           "length": "2:54"
         },
         {
           "id": 3,
-          "track_number": 18,
-          "Title": "Birthday",
+          "trackNumber": 18,
+          "title": "Birthday",
           "length": "2:43"
         },
         {
           "id": 3,
-          "track_number": 19,
-          "Title": "Yer Blues",
+          "trackNumber": 19,
+          "title": "Yer Blues",
           "length": "4:02"
         },
         {
           "id": 3,
-          "track_number": 20,
-          "Title": "Mother Nature’s Son",
+          "trackNumber": 20,
+          "title": "Mother Nature’s Son",
           "length": "2:46"
         },
         {
           "id": 3,
-          "track_number": 21,
-          "Title": "Everybody’s Got Something to Hide Except Me and My Monkey",
+          "trackNumber": 21,
+          "title": "Everybody’s Got Something to Hide Except Me and My Monkey",
           "length": "2:25"
         },
         {
           "id": 3,
-          "track_number": 22,
-          "Title": "Sexy Sadie",
+          "trackNumber": 22,
+          "title": "Sexy Sadie",
           "length": "3:15"
         },
         {
           "id": 3,
-          "track_number": 23,
-          "Title": "Helter Skelter",
+          "trackNumber": 23,
+          "title": "Helter Skelter",
           "length": "3:39"
         },
         {
           "id": 3,
-          "track_number": 24,
-          "Title": "Long, Long, Long",
+          "trackNumber": 24,
+          "title": "Long, Long, Long",
           "length": "3:05"
         },
         {
           "id": 3,
-          "track_number": 25,
-          "Title": "Revolution 1",
+          "trackNumber": 25,
+          "title": "Revolution 1",
           "length": "4:16"
         },
         {
           "id": 3,
-          "track_number": 26,
-          "Title": "Honey Pie",
+          "trackNumber": 26,
+          "title": "Honey Pie",
           "length": "2:41"
         },
         {
           "id": 3,
-          "track_number": 27,
-          "Title": "Savoy Truffle",
+          "trackNumber": 27,
+          "title": "Savoy Truffle",
           "length": "2:54"
         },
         {
           "id": 3,
-          "track_number": 28,
-          "Title": "Cry Baby Cry",
+          "trackNumber": 28,
+          "title": "Cry Baby Cry",
           "length": "3:02"
         },
         {
           "id": 3,
-          "track_number": 29,
-          "Title": "Revolution 9",
+          "trackNumber": 29,
+          "title": "Revolution 9",
           "length": "8:21"
         },
         {
           "id": 3,
-          "track_number": 30,
-          "Title": "Good Night",
+          "trackNumber": 30,
+          "title": "Good Night",
           "length": "3:12"
         }
       ]
@@ -348,74 +348,74 @@
     {
       "id": 4,
       "artist": "Pink Floyd",
-      "album_name": "The Dark Side of the Moon",
-      "on_sale": false,
+      "albumName": "The Dark Side of the Moon",
+      "onSale": 0,
       "price": 13.5,
       "year": 1973,
-      "release_date": "March 1, 1973",
-      "recording-location": "Abbey Road Studios, London",
+      "releaseDate": "March 1, 1973",
+      "recordLocation": "Abbey Road Studios, London",
       "genre": "Pop/Rock",
       "duration": "42:54:00",
-      "URL": "https://www.allmusic.com/album/the-dark-side-of-the-moon-mw0000191308",
+      "url": "https://www.allmusic.com/album/the-dark-side-of-the-moon-mw0000191308",
       "tracks": [
         {
           "id": 4,
-          "track_number": 1,
-          "Title": "Speak to Me",
+          "trackNumber": 1,
+          "title": "Speak to Me",
           "length": "1:07"
         },
         {
           "id": 4,
-          "track_number": 2,
-          "Title": "Breathe (In the Air)",
+          "trackNumber": 2,
+          "title": "Breathe (In the Air)",
           "length": "2:49"
         },
         {
           "id": 4,
-          "track_number": 3,
-          "Title": "On the Run",
+          "trackNumber": 3,
+          "title": "On the Run",
           "length": "3:45"
         },
         {
           "id": 4,
-          "track_number": 4,
-          "Title": "Time",
+          "trackNumber": 4,
+          "title": "Time",
           "length": "6:53"
         },
         {
           "id": 4,
-          "track_number": 5,
-          "Title": "The Great Gig in the Sky",
+          "trackNumber": 5,
+          "title": "The Great Gig in the Sky",
           "length": "4:44"
         },
         {
           "id": 4,
-          "track_number": 6,
-          "Title": "Money",
+          "trackNumber": 6,
+          "title": "Money",
           "length": "6:23"
         },
         {
           "id": 4,
-          "track_number": 7,
-          "Title": "Us and Them",
+          "trackNumber": 7,
+          "title": "Us and Them",
           "length": "7:49"
         },
         {
           "id": 4,
-          "track_number": 8,
-          "Title": "Any Colour You Like",
+          "trackNumber": 8,
+          "title": "Any Colour You Like",
           "length": "3:26"
         },
         {
           "id": 4,
-          "track_number": 9,
-          "Title": "Brain Damage",
+          "trackNumber": 9,
+          "title": "Brain Damage",
           "length": "3:46"
         },
         {
           "id": 4,
-          "track_number": 10,
-          "Title": "Eclipse",
+          "trackNumber": 10,
+          "title": "Eclipse",
           "length": "2:12"
         }
       ]
@@ -423,62 +423,62 @@
     {
       "id": 5,
       "artist": "Grateful Dead",
-      "album_name": "Aoxomoxoa",
-      "on_sale": true,
+      "albumName": "Aoxomoxoa",
+      "onSale": 1,
       "price": 16.24,
       "year": 1969,
-      "release_date": "June 20, 1969",
-      "recording-location": "Alembic Studios, San Francisco, CA",
+      "releaseDate": "June 20, 1969",
+      "recordLocation": "Alembic Studios, San Francisco, CA",
       "genre": "Pop/Rock",
       "duration": "38:07:00",
-      "URL": "https://www.allmusic.com/album/aoxomoxoa-mw0000650206",
+      "url": "https://www.allmusic.com/album/aoxomoxoa-mw0000650206",
       "tracks": [
         {
           "id": 5,
-          "track_number": 1,
-          "Title": "St. Stephen",
+          "trackNumber": 1,
+          "title": "St. Stephen",
           "length": "4:25"
         },
         {
           "id": 5,
-          "track_number": 2,
-          "Title": "Dupree's Diamond Blues",
+          "trackNumber": 2,
+          "title": "Dupree's Diamond Blues",
           "length": "3:40"
         },
         {
           "id": 5,
-          "track_number": 3,
-          "Title": "Rosemary",
+          "trackNumber": 3,
+          "title": "Rosemary",
           "length": "2:02"
         },
         {
           "id": 5,
-          "track_number": 4,
-          "Title": "Doin' That Rag",
+          "trackNumber": 4,
+          "title": "Doin' That Rag",
           "length": "5:15"
         },
         {
           "id": 5,
-          "track_number": 5,
-          "Title": "Mountains of the Moon",
+          "trackNumber": 5,
+          "title": "Mountains of the Moon",
           "length": "4:15"
         },
         {
           "id": 5,
-          "track_number": 6,
-          "Title": "China Cat Sunflower",
+          "trackNumber": 6,
+          "title": "China Cat Sunflower",
           "length": "4:15"
         },
         {
           "id": 5,
-          "track_number": 7,
-          "Title": "What's Become of the Baby",
+          "trackNumber": 7,
+          "title": "What's Become of the Baby",
           "length": "8:30"
         },
         {
           "id": 5,
-          "track_number": 8,
-          "Title": "Cosmic Charlie",
+          "trackNumber": 8,
+          "title": "Cosmic Charlie",
           "length": "5:45"
         }
       ]
@@ -486,86 +486,86 @@
     {
       "id": 6,
       "artist": "Nirvana",
-      "album_name": "Nevermind",
-      "on_sale": false,
+      "albumName": "Nevermind",
+      "onSale": 0,
       "price": 11.99,
       "year": 1991,
-      "release_date": "September 24, 1991",
-      "recording-location": "Sound City Studios, Van Nuys, CA",
+      "releaseDate": "September 24, 1991",
+      "recordLocation": "Sound City Studios, Van Nuys, CA",
       "genre": "Pop/Rock",
       "duration": "42:38:00",
-      "URL": "https://www.allmusic.com/album/nevermind-mw0000185616",
+      "url": "https://www.allmusic.com/album/nevermind-mw0000185616",
       "tracks": [
         {
           "id": 6,
-          "track_number": 1,
-          "Title": "Smells Like Teen Spirit",
+          "trackNumber": 1,
+          "title": "Smells Like Teen Spirit",
           "length": "5:02"
         },
         {
           "id": 6,
-          "track_number": 2,
-          "Title": "In Bloom",
+          "trackNumber": 2,
+          "title": "In Bloom",
           "length": "4:15"
         },
         {
           "id": 6,
-          "track_number": 3,
-          "Title": "Come as You Are",
+          "trackNumber": 3,
+          "title": "Come as You Are",
           "length": "3:39"
         },
         {
           "id": 6,
-          "track_number": 4,
-          "Title": "Breed",
+          "trackNumber": 4,
+          "title": "Breed",
           "length": "3:04"
         },
         {
           "id": 6,
-          "track_number": 5,
-          "Title": "Lithium",
+          "trackNumber": 5,
+          "title": "Lithium",
           "length": "4:17"
         },
         {
           "id": 6,
-          "track_number": 6,
-          "Title": "Polly",
+          "trackNumber": 6,
+          "title": "Polly",
           "length": "2:56"
         },
         {
           "id": 6,
-          "track_number": 7,
-          "Title": "Territorial Pissings",
+          "trackNumber": 7,
+          "title": "Territorial Pissings",
           "length": "2:23"
         },
         {
           "id": 6,
-          "track_number": 8,
-          "Title": "Drain You",
+          "trackNumber": 8,
+          "title": "Drain You",
           "length": "3:44"
         },
         {
           "id": 6,
-          "track_number": 9,
-          "Title": "Lounge Act",
+          "trackNumber": 9,
+          "title": "Lounge Act",
           "length": "2:37"
         },
         {
           "id": 6,
-          "track_number": 10,
-          "Title": "Stay Away",
+          "trackNumber": 10,
+          "title": "Stay Away",
           "length": "3:33"
         },
         {
           "id": 6,
-          "track_number": 11,
-          "Title": "On a Plain",
+          "trackNumber": 11,
+          "title": "On a Plain",
           "length": "3:17"
         },
         {
           "id": 6,
-          "track_number": 12,
-          "Title": "Something in the Way",
+          "trackNumber": 12,
+          "title": "Something in the Way",
           "length": "3:51"
         }
       ]
@@ -573,86 +573,86 @@
     {
       "id": 7,
       "artist": "The Rolling Stones",
-      "album_name": "Flowers",
-      "on_sale": true,
+      "albumName": "Flowers",
+      "onSale": 1,
       "price": 7,
       "year": 1967,
-      "release_date": "June, 1967",
-      "recording-location": "",
+      "releaseDate": "June, 1967",
+      "recordLocation": "",
       "genre": "Pop/Rock",
       "duration": "36:26:00",
-      "URL": "https://www.allmusic.com/album/flowers-mw0000195495",
+      "url": "https://www.allmusic.com/album/flowers-mw0000195495",
       "tracks": [
         {
           "id": 7,
-          "track_number": 1,
-          "Title": "Ruby Tuesday",
+          "trackNumber": 1,
+          "title": "Ruby Tuesday",
           "length": "3:17"
         },
         {
           "id": 7,
-          "track_number": 2,
-          "Title": "Have You Seen Your Mother, Baby, Standing in the Shadow?",
+          "trackNumber": 2,
+          "title": "Have You Seen Your Mother, Baby, Standing in the Shadow?",
           "length": "2:35"
         },
         {
           "id": 7,
-          "track_number": 3,
-          "Title": "Let's Spend the Night Together",
+          "trackNumber": 3,
+          "title": "Let's Spend the Night Together",
           "length": "3:38"
         },
         {
           "id": 7,
-          "track_number": 4,
-          "Title": "Lady Jane",
+          "trackNumber": 4,
+          "title": "Lady Jane",
           "length": "3:08"
         },
         {
           "id": 7,
-          "track_number": 5,
-          "Title": "Out of Time",
+          "trackNumber": 5,
+          "title": "Out of Time",
           "length": "3:42"
         },
         {
           "id": 7,
-          "track_number": 6,
-          "Title": "My Girl",
+          "trackNumber": 6,
+          "title": "My Girl",
           "length": "2:39"
         },
         {
           "id": 7,
-          "track_number": 7,
-          "Title": "Backstreet Girl",
+          "trackNumber": 7,
+          "title": "Backstreet Girl",
           "length": "3:26"
         },
         {
           "id": 7,
-          "track_number": 8,
-          "Title": "Please Go Home",
+          "trackNumber": 8,
+          "title": "Please Go Home",
           "length": "3:19"
         },
         {
           "id": 7,
-          "track_number": 9,
-          "Title": "Mother's Little Helper",
+          "trackNumber": 9,
+          "title": "Mother's Little Helper",
           "length": "2:47"
         },
         {
           "id": 7,
-          "track_number": 10,
-          "Title": "Take It or Leave It",
+          "trackNumber": 10,
+          "title": "Take It or Leave It",
           "length": "2:47"
         },
         {
           "id": 7,
-          "track_number": 11,
-          "Title": "Ride on Baby",
+          "trackNumber": 11,
+          "title": "Ride on Baby",
           "length": "2:53"
         },
         {
           "id": 7,
-          "track_number": 12,
-          "Title": "Sittin' on a Fence",
+          "trackNumber": 12,
+          "title": "Sittin' on a Fence",
           "length": "3:02"
         }
       ]
@@ -660,80 +660,80 @@
     {
       "id": 8,
       "artist": "Blondie",
-      "album_name": "Blondie",
-      "on_sale": false,
+      "albumName": "Blondie",
+      "onSale": 0,
       "price": 12,
       "year": 1976,
-      "release_date": "December, 1976",
-      "recording-location": "Plaza Sound Studios, New York, NY",
+      "releaseDate": "December, 1976",
+      "recordLocation": "Plaza Sound Studios, New York, NY",
       "genre": "Pop/Rock",
       "duration": "33:25:00",
-      "URL": "https://www.allmusic.com/album/blondie-mw0000590317",
+      "url": "https://www.allmusic.com/album/blondie-mw0000590317",
       "tracks": [
         {
           "id": 8,
-          "track_number": 1,
-          "Title": "X Offender",
+          "trackNumber": 1,
+          "title": "X Offender",
           "length": "3:14"
         },
         {
           "id": 8,
-          "track_number": 2,
-          "Title": "Little Girl Lies",
+          "trackNumber": 2,
+          "title": "Little Girl Lies",
           "length": "2:07"
         },
         {
           "id": 8,
-          "track_number": 3,
-          "Title": "In the Flesh",
+          "trackNumber": 3,
+          "title": "In the Flesh",
           "length": "2:32"
         },
         {
           "id": 8,
-          "track_number": 4,
-          "Title": "Look Good in Blue",
+          "trackNumber": 4,
+          "title": "Look Good in Blue",
           "length": "2:55"
         },
         {
           "id": 8,
-          "track_number": 5,
-          "Title": "In the Sun",
+          "trackNumber": 5,
+          "title": "In the Sun",
           "length": "2:40"
         },
         {
           "id": 8,
-          "track_number": 6,
-          "Title": "A Shark in Jet's Clothing",
+          "trackNumber": 6,
+          "title": "A Shark in Jet's Clothing",
           "length": "3:39"
         },
         {
           "id": 8,
-          "track_number": 7,
-          "Title": "Man Overboard",
+          "trackNumber": 7,
+          "title": "Man Overboard",
           "length": "3:21"
         },
         {
           "id": 8,
-          "track_number": 8,
-          "Title": "Rip Her to Shreds",
+          "trackNumber": 8,
+          "title": "Rip Her to Shreds",
           "length": "3:22"
         },
         {
           "id": 8,
-          "track_number": 9,
-          "Title": "Rifle Range",
+          "trackNumber": 9,
+          "title": "Rifle Range",
           "length": "3:41"
         },
         {
           "id": 8,
-          "track_number": 10,
-          "Title": "Kung Fu Girls",
+          "trackNumber": 10,
+          "title": "Kung Fu Girls",
           "length": "2:32"
         },
         {
           "id": 8,
-          "track_number": 11,
-          "Title": "The Attack of the Giant Ants",
+          "trackNumber": 11,
+          "title": "The Attack of the Giant Ants",
           "length": "3:24"
         }
       ]
@@ -741,116 +741,116 @@
     {
       "id": 9,
       "artist": "Jimi Hendrix",
-      "album_name": "Are You Experienced",
-      "on_sale": true,
+      "albumName": "Are You Experienced",
+      "onSale": 1,
       "price": 13.5,
       "year": 1967,
-      "release_date": "August, 1967",
-      "recording-location": "",
+      "releaseDate": "August, 1967",
+      "recordLocation": "",
       "genre": "Pop/Rock",
       "duration": "1:00:22",
-      "URL": "https://www.allmusic.com/album/are-you-experienced-mw0000537390",
+      "url": "https://www.allmusic.com/album/are-you-experienced-mw0000537390",
       "tracks": [
         {
           "id": 9,
-          "track_number": 1,
-          "Title": "Purple Haze",
+          "trackNumber": 1,
+          "title": "Purple Haze",
           "length": "2:50"
         },
         {
           "id": 9,
-          "track_number": 2,
-          "Title": "Manic Depression",
+          "trackNumber": 2,
+          "title": "Manic Depression",
           "length": "3:42"
         },
         {
           "id": 9,
-          "track_number": 3,
-          "Title": "Hey JoeBilly Roberts",
+          "trackNumber": 3,
+          "title": "Hey JoeBilly Roberts",
           "length": "3:30"
         },
         {
           "id": 9,
-          "track_number": 4,
-          "Title": "Love or Confusion",
+          "trackNumber": 4,
+          "title": "Love or Confusion",
           "length": "3:12"
         },
         {
           "id": 9,
-          "track_number": 5,
-          "Title": "May This Be Love",
+          "trackNumber": 5,
+          "title": "May This Be Love",
           "length": "3:10"
         },
         {
           "id": 9,
-          "track_number": 6,
-          "Title": "I Don't Live Today",
+          "trackNumber": 6,
+          "title": "I Don't Live Today",
           "length": "3:54"
         },
         {
           "id": 9,
-          "track_number": 7,
-          "Title": "The Wind Cries Mary",
+          "trackNumber": 7,
+          "title": "The Wind Cries Mary",
           "length": "3:20"
         },
         {
           "id": 9,
-          "track_number": 8,
-          "Title": "Fire",
+          "trackNumber": 8,
+          "title": "Fire",
           "length": "2:43"
         },
         {
           "id": 9,
-          "track_number": 9,
-          "Title": "Third Stone from the Sun",
+          "trackNumber": 9,
+          "title": "Third Stone from the Sun",
           "length": "6:44"
         },
         {
           "id": 9,
-          "track_number": 10,
-          "Title": "Foxey Lady",
+          "trackNumber": 10,
+          "title": "Foxey Lady",
           "length": "3:18"
         },
         {
           "id": 9,
-          "track_number": 11,
-          "Title": "Are You Experienced?",
+          "trackNumber": 11,
+          "title": "Are You Experienced?",
           "length": "4:16"
         },
         {
           "id": 9,
-          "track_number": 12,
-          "Title": "Stone Free",
+          "trackNumber": 12,
+          "title": "Stone Free",
           "length": "3:35"
         },
         {
           "id": 9,
-          "track_number": 13,
-          "Title": "51st Anniversary",
+          "trackNumber": 13,
+          "title": "51st Anniversary",
           "length": "3:15"
         },
         {
           "id": 9,
-          "track_number": 14,
-          "Title": "Highway Chile",
+          "trackNumber": 14,
+          "title": "Highway Chile",
           "length": "3:32"
         },
         {
           "id": 9,
-          "track_number": 15,
-          "Title": "Can You See Me",
+          "trackNumber": 15,
+          "title": "Can You See Me",
           "length": "2:32"
         },
         {
           "id": 9,
-          "track_number": 16,
-          "Title": "Remember",
+          "trackNumber": 16,
+          "title": "Remember",
           "length": "2:48"
         },
         {
           "id": 9,
-          "track_number": 17,
-          "Title": "Red House",
+          "trackNumber": 17,
+          "title": "Red House",
           "length": "3:51"
         }
       ]
@@ -858,104 +858,104 @@
     {
       "id": 10,
       "artist": "Primus",
-      "album_name": "Brown Album",
-      "on_sale": true,
+      "albumName": "Brown Album",
+      "onSale": 1,
       "price": 16.24,
       "year": 1997,
-      "release_date": "July 8, 1997",
-      "recording-location": "Rancho Relaxo, CA",
+      "releaseDate": "July 8, 1997",
+      "recordLocation": "Rancho Relaxo, CA",
       "genre": "Pop/Rock",
       "duration": "56:48:00",
-      "URL": "https://www.allmusic.com/album/the-brown-album-mw0000023938",
+      "url": "https://www.allmusic.com/album/the-brown-album-mw0000023938",
       "tracks": [
         {
           "id": 10,
-          "track_number": 1,
-          "Title": "The Return of Sathington Willoughby",
+          "trackNumber": 1,
+          "title": "The Return of Sathington Willoughby",
           "length": "5:04"
         },
         {
           "id": 10,
-          "track_number": 2,
-          "Title": "Fisticuffs",
+          "trackNumber": 2,
+          "title": "Fisticuffs",
           "length": "4:24"
         },
         {
           "id": 10,
-          "track_number": 3,
-          "Title": "Golden Boy",
+          "trackNumber": 3,
+          "title": "Golden Boy",
           "length": "3:05"
         },
         {
           "id": 10,
-          "track_number": 4,
-          "Title": "Over the Falls",
+          "trackNumber": 4,
+          "title": "Over the Falls",
           "length": "2:41"
         },
         {
           "id": 10,
-          "track_number": 5,
-          "Title": "Shake Hands With Beef",
+          "trackNumber": 5,
+          "title": "Shake Hands With Beef",
           "length": "4:02"
         },
         {
           "id": 10,
-          "track_number": 6,
-          "Title": "Camelback Cinema",
+          "trackNumber": 6,
+          "title": "Camelback Cinema",
           "length": "3:59"
         },
         {
           "id": 10,
-          "track_number": 7,
-          "Title": "Hats Off",
+          "trackNumber": 7,
+          "title": "Hats Off",
           "length": "1:57"
         },
         {
           "id": 10,
-          "track_number": 8,
-          "Title": "Puddin' Taine",
+          "trackNumber": 8,
+          "title": "Puddin' Taine",
           "length": "3:37"
         },
         {
           "id": 10,
-          "track_number": 9,
-          "Title": "Bob's Party Time Lounge",
+          "trackNumber": 9,
+          "title": "Bob's Party Time Lounge",
           "length": "4:43"
         },
         {
           "id": 10,
-          "track_number": 10,
-          "Title": "Duchess and the Proverbial Mind Spread",
+          "trackNumber": 10,
+          "title": "Duchess and the Proverbial Mind Spread",
           "length": "3:29"
         },
         {
           "id": 10,
-          "track_number": 11,
-          "Title": "Restin' Bones",
+          "trackNumber": 11,
+          "title": "Restin' Bones",
           "length": "4:29"
         },
         {
           "id": 10,
-          "track_number": 12,
-          "Title": "Coddingtown",
+          "trackNumber": 12,
+          "title": "Coddingtown",
           "length": "2:52"
         },
         {
           "id": 10,
-          "track_number": 13,
-          "Title": "Kalamazoo",
+          "trackNumber": 13,
+          "title": "Kalamazoo",
           "length": "3:30"
         },
         {
           "id": 10,
-          "track_number": 14,
-          "Title": "The Chastising of Renegade",
+          "trackNumber": 14,
+          "title": "The Chastising of Renegade",
           "length": "5:02"
         },
         {
           "id": 10,
-          "track_number": 15,
-          "Title": "Arnie",
+          "trackNumber": 15,
+          "title": "Arnie",
           "length": "3:54"
         }
       ]
@@ -963,68 +963,68 @@
     {
       "id": 11,
       "artist": "Bonnie Tyler",
-      "album_name": "Faster Than the Speed of Night",
-      "on_sale": false,
+      "albumName": "Faster Than the Speed of Night",
+      "onSale": 0,
       "price": 11.99,
       "year": 1983,
-      "release_date": "",
-      "recording-location": "Greene Street Recording Studio, New York, NY",
+      "releaseDate": "",
+      "recordLocation": "Greene Street Recording Studio, New York, NY",
       "genre": "Soft Rock, Wagnerian Rock",
       "duration": "42:51:00",
-      "URL": "https://www.allmusic.com/album/faster-than-the-speed-of-night-mw0000196124",
+      "url": "https://www.allmusic.com/album/faster-than-the-speed-of-night-mw0000196124",
       "tracks": [
         {
           "id": 11,
-          "track_number": 1,
-          "Title": "Have You Ever Seen the Rain?",
+          "trackNumber": 1,
+          "title": "Have You Ever Seen the Rain?",
           "length": "4:10"
         },
         {
           "id": 11,
-          "track_number": 2,
-          "Title": "Faster Than the Speed of Night",
+          "trackNumber": 2,
+          "title": "Faster Than the Speed of Night",
           "length": "6:45"
         },
         {
           "id": 11,
-          "track_number": 3,
-          "Title": "Getting So Exciting",
+          "trackNumber": 3,
+          "title": "Getting So Exciting",
           "length": "3:31"
         },
         {
           "id": 11,
-          "track_number": 4,
-          "Title": "Total Eclipse of the Heart",
+          "trackNumber": 4,
+          "title": "Total Eclipse of the Heart",
           "length": "7:02"
         },
         {
           "id": 11,
-          "track_number": 5,
-          "Title": "It's a Jungle out There",
+          "trackNumber": 5,
+          "title": "It's a Jungle out There",
           "length": "4:39"
         },
         {
           "id": 11,
-          "track_number": 6,
-          "Title": "Goin' Through the Motions",
+          "trackNumber": 6,
+          "title": "Goin' Through the Motions",
           "length": "4:09"
         },
         {
           "id": 11,
-          "track_number": 7,
-          "Title": "Tears",
+          "trackNumber": 7,
+          "title": "Tears",
           "length": "3:50"
         },
         {
           "id": 11,
-          "track_number": 8,
-          "Title": "Take Me Back",
+          "trackNumber": 8,
+          "title": "Take Me Back",
           "length": "5:23"
         },
         {
           "id": 11,
-          "track_number": 9,
-          "Title": "Straight from the Heart",
+          "trackNumber": 9,
+          "title": "Straight from the Heart",
           "length": "3:40"
         }
       ]
@@ -1032,116 +1032,116 @@
     {
       "id": 12,
       "artist": "The Beatles",
-      "album_name": "Abbey Road",
-      "on_sale": true,
+      "albumName": "Abbey Road",
+      "onSale": 1,
       "price": 7,
       "year": 1969,
-      "release_date": "September 26, 1969",
-      "recording-location": "",
+      "releaseDate": "September 26, 1969",
+      "recordLocation": "",
       "genre": "Rock",
       "duration": "47:23:00",
-      "URL": "https://www.allmusic.com/album/abbey-road-mw0000192938",
+      "url": "https://www.allmusic.com/album/abbey-road-mw0000192938",
       "tracks": [
         {
           "id": 12,
-          "track_number": 1,
-          "Title": "Come Together",
+          "trackNumber": 1,
+          "title": "Come Together",
           "length": "4:19"
         },
         {
           "id": 12,
-          "track_number": 2,
-          "Title": "Something",
+          "trackNumber": 2,
+          "title": "Something",
           "length": "3:02"
         },
         {
           "id": 12,
-          "track_number": 3,
-          "Title": "Maxwell's Silver Hammer",
+          "trackNumber": 3,
+          "title": "Maxwell's Silver Hammer",
           "length": "3:27"
         },
         {
           "id": 12,
-          "track_number": 4,
-          "Title": "Oh! Darling",
+          "trackNumber": 4,
+          "title": "Oh! Darling",
           "length": "3:27"
         },
         {
           "id": 12,
-          "track_number": 5,
-          "Title": "Octopus's Garden",
+          "trackNumber": 5,
+          "title": "Octopus's Garden",
           "length": "2:50"
         },
         {
           "id": 12,
-          "track_number": 6,
-          "Title": "I Want You (She's So Heavy)",
+          "trackNumber": 6,
+          "title": "I Want You (She's So Heavy)",
           "length": "7:47"
         },
         {
           "id": 12,
-          "track_number": 7,
-          "Title": "Here Comes the Sun",
+          "trackNumber": 7,
+          "title": "Here Comes the Sun",
           "length": "3:05"
         },
         {
           "id": 12,
-          "track_number": 8,
-          "Title": "Because",
+          "trackNumber": 8,
+          "title": "Because",
           "length": "2:45"
         },
         {
           "id": 12,
-          "track_number": 9,
-          "Title": "You Never Give Me Your Money",
+          "trackNumber": 9,
+          "title": "You Never Give Me Your Money",
           "length": "4:02"
         },
         {
           "id": 12,
-          "track_number": 10,
-          "Title": "Sun King",
+          "trackNumber": 10,
+          "title": "Sun King",
           "length": "2:26"
         },
         {
           "id": 12,
-          "track_number": 11,
-          "Title": "Mean Mr. Mustard",
+          "trackNumber": 11,
+          "title": "Mean Mr. Mustard",
           "length": "1:06"
         },
         {
           "id": 12,
-          "track_number": 12,
-          "Title": "Polythene Pam",
+          "trackNumber": 12,
+          "title": "Polythene Pam",
           "length": "1:12"
         },
         {
           "id": 12,
-          "track_number": 13,
-          "Title": "She Came in Through the Bathroom Window",
+          "trackNumber": 13,
+          "title": "She Came in Through the Bathroom Window",
           "length": "1:58"
         },
         {
           "id": 12,
-          "track_number": 14,
-          "Title": "Golden Slumbers",
+          "trackNumber": 14,
+          "title": "Golden Slumbers",
           "length": "1:31"
         },
         {
           "id": 12,
-          "track_number": 15,
-          "Title": "Carry That Weight",
+          "trackNumber": 15,
+          "title": "Carry That Weight",
           "length": "1:36"
         },
         {
           "id": 12,
-          "track_number": 16,
-          "Title": "The End",
+          "trackNumber": 16,
+          "title": "The End",
           "length": "2:21"
         },
         {
           "id": 12,
-          "track_number": 17,
-          "Title": "Her Majesty",
+          "trackNumber": 17,
+          "title": "Her Majesty",
           "length": "0:27"
         }
       ]
@@ -1149,74 +1149,74 @@
     {
       "id": 13,
       "artist": "Stevie Wonder",
-      "album_name": "Hotter Than July",
-      "on_sale": false,
+      "albumName": "Hotter Than July",
+      "onSale": 0,
       "price": 12,
       "year": 1980,
-      "release_date": "September 29, 1980",
-      "recording-location": "",
+      "releaseDate": "September 29, 1980",
+      "recordLocation": "",
       "genre": "R&B",
       "duration": "45:46:00",
-      "URL": "https://www.allmusic.com/album/hotter-than-july-mw0000650992",
+      "url": "https://www.allmusic.com/album/hotter-than-july-mw0000650992",
       "tracks": [
         {
           "id": 13,
-          "track_number": 1,
-          "Title": "Did I Hear You Say You Love Me",
+          "trackNumber": 1,
+          "title": "Did I Hear You Say You Love Me",
           "length": "4:08"
         },
         {
           "id": 13,
-          "track_number": 2,
-          "Title": "All I Do",
+          "trackNumber": 2,
+          "title": "All I Do",
           "length": "5:07"
         },
         {
           "id": 13,
-          "track_number": 3,
-          "Title": "Rocket Love",
+          "trackNumber": 3,
+          "title": "Rocket Love",
           "length": "4:39"
         },
         {
           "id": 13,
-          "track_number": 4,
-          "Title": "I Ain't Gonna Stand For It",
+          "trackNumber": 4,
+          "title": "I Ain't Gonna Stand For It",
           "length": "4:39"
         },
         {
           "id": 13,
-          "track_number": 5,
-          "Title": "As If You Read My Mind",
+          "trackNumber": 5,
+          "title": "As If You Read My Mind",
           "length": "3:39"
         },
         {
           "id": 13,
-          "track_number": 6,
-          "Title": "Master Blaster (Jammin')",
+          "trackNumber": 6,
+          "title": "Master Blaster (Jammin')",
           "length": "5:08"
         },
         {
           "id": 13,
-          "track_number": 7,
-          "Title": "Do Like You",
+          "trackNumber": 7,
+          "title": "Do Like You",
           "length": "4:25"
         },
         {
           "id": 13,
-          "track_number": 8,
-          "Title": "Cash in Your Face",
+          "trackNumber": 8,
+          "title": "Cash in Your Face",
           "length": "3:59"
         },
         {
           "id": 13,
-          "track_number": 9,
-          "Title": "Lately",
+          "trackNumber": 9,
+          "title": "Lately",
           "length": "4:05"
         },
         {
           "id": 13,
-          "track_number": 10,
-          "Title": "Happy Birthday",
+          "trackNumber": 10,
+          "title": "Happy Birthday",
           "length": "5:57"
         }
       ]
@@ -1224,93 +1224,93 @@
     {
       "id": 14,
       "artist": "The Backstreet Boys",
-      "album_name": "Black and Blue",
-      "on_sale": true,
+      "albumName": "Black and Blue",
+      "onSale": 1,
       "price": 13.5,
       "year": 2000,
-      "release_date": "November 21, 2000",
-      "recording-location": "Battery Studios, New York, NY",
+      "releaseDate": "November 21, 2000",
+      "recordLocation": "Battery Studios, New York, NY",
       "genre": "Pop",
       "duration": "47:55:00",
-      "URL": "https://www.allmusic.com/album/black-blue-mw0000103961",
+      "url": "https://www.allmusic.com/album/black-blue-mw0000103961",
 
       "tracks": [
         {
           "id": 14,
-          "track_number": 1,
-          "Title": "The Call",
+          "trackNumber": 1,
+          "title": "The Call",
           "length": "3:24"
         },
         {
           "id": 14,
-          "track_number": 2,
-          "Title": "Shape of My Heart",
+          "trackNumber": 2,
+          "title": "Shape of My Heart",
           "length": "3:50"
         },
         {
           "id": 14,
-          "track_number": 3,
-          "Title": "Get Another Boyfriend",
+          "trackNumber": 3,
+          "title": "Get Another Boyfriend",
           "length": "3:06"
         },
         {
           "id": 14,
-          "track_number": 4,
-          "Title": "Shining Star",
+          "trackNumber": 4,
+          "title": "Shining Star",
           "length": "3:23"
         },
         {
           "id": 14,
-          "track_number": 5,
-          "Title": "I Promise You (With Everything I Am)",
+          "trackNumber": 5,
+          "title": "I Promise You (With Everything I Am)",
           "length": "4:22"
         },
         {
           "id": 14,
-          "track_number": 6,
-          "Title": "The Answer to Our Life",
+          "trackNumber": 6,
+          "title": "The Answer to Our Life",
           "length": "3:17"
         },
         {
           "id": 14,
-          "track_number": 7,
-          "Title": "Everyone",
+          "trackNumber": 7,
+          "title": "Everyone",
           "length": "3:30"
         },
         {
           "id": 14,
-          "track_number": 8,
-          "Title": "More Than That",
+          "trackNumber": 8,
+          "title": "More Than That",
           "length": "3:44"
         },
         {
           "id": 14,
-          "track_number": 9,
-          "Title": "Time",
+          "trackNumber": 9,
+          "title": "Time",
           "length": "3:56"
         },
         {
           "id": 14,
-          "track_number": 10,
-          "Title": "Not for Me",
+          "trackNumber": 10,
+          "title": "Not for Me",
           "length": "3:15"
         },
         {
           "id": 14,
-          "track_number": 11,
-          "Title": "Yes I Will",
+          "trackNumber": 11,
+          "title": "Yes I Will",
           "length": "3:50"
         },
         {
           "id": 14,
-          "track_number": 12,
-          "Title": "It's True",
+          "trackNumber": 12,
+          "title": "It's True",
           "length": "4:14"
         },
         {
           "id": 14,
-          "track_number": 13,
-          "Title": "How Did I Fall in Love With You",
+          "trackNumber": 13,
+          "title": "How Did I Fall in Love With You",
           "length": "4:04"
         }
       ]
@@ -1318,80 +1318,80 @@
     {
       "id": 15,
       "artist": "Paramore",
-      "album_name": "Riot",
-      "on_sale": false,
+      "albumName": "Riot",
+      "onSale": 0,
       "price": 16.24,
       "year": 2007,
-      "release_date": "June 12, 2007",
-      "recording-location": "House Of Loud, Elmwood Park, NJ",
+      "releaseDate": "June 12, 2007",
+      "recordLocation": "House Of Loud, Elmwood Park, NJ",
       "genre": "Pop Punk",
       "duration": "38:47:00",
-      "URL": "https://www.allmusic.com/album/riot%21-mw0000579426",
+      "url": "https://www.allmusic.com/album/riot%21-mw0000579426",
       "tracks": [
         {
           "id": 15,
-          "track_number": 1,
-          "Title": "For a Pessimist, I'm Pretty Optimistic",
+          "trackNumber": 1,
+          "title": "For a Pessimist, I'm Pretty Optimistic",
           "length": "3:48"
         },
         {
           "id": 15,
-          "track_number": 2,
-          "Title": "Thats What You Get",
+          "trackNumber": 2,
+          "title": "Thats What You Get",
           "length": "3:40"
         },
         {
           "id": 15,
-          "track_number": 3,
-          "Title": "Hallelujah",
+          "trackNumber": 3,
+          "title": "Hallelujah",
           "length": "3:23"
         },
         {
           "id": 15,
-          "track_number": 4,
-          "Title": "Misery Business",
+          "trackNumber": 4,
+          "title": "Misery Business",
           "length": "3:31"
         },
         {
           "id": 15,
-          "track_number": 5,
-          "Title": "When It Rains",
+          "trackNumber": 5,
+          "title": "When It Rains",
           "length": "3:35"
         },
         {
           "id": 15,
-          "track_number": 6,
-          "Title": "Let the Flames Begin",
+          "trackNumber": 6,
+          "title": "Let the Flames Begin",
           "length": "3:18"
         },
         {
           "id": 15,
-          "track_number": 7,
-          "Title": "Miracle",
+          "trackNumber": 7,
+          "title": "Miracle",
           "length": "3:29"
         },
         {
           "id": 15,
-          "track_number": 8,
-          "Title": "Crushcrushcrush",
+          "trackNumber": 8,
+          "title": "Crushcrushcrush",
           "length": "3:09"
         },
         {
           "id": 15,
-          "track_number": 9,
-          "Title": "We Are Broken",
+          "trackNumber": 9,
+          "title": "We Are Broken",
           "length": "3:38"
         },
         {
           "id": 15,
-          "track_number": 10,
-          "Title": "Fences",
+          "trackNumber": 10,
+          "title": "Fences",
           "length": "3:18"
         },
         {
           "id": 15,
-          "track_number": 11,
-          "Title": "Born For This",
+          "trackNumber": 11,
+          "title": "Born For This",
           "length": "3:58"
         }
       ]

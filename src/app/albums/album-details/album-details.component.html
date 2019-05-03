@@ -4,12 +4,12 @@
       *ngIf="album"
       class="float-right img-fluid"
       src="assets/img/{{ album.id }}.jpg"
-      alt="{{ album?.album_name }}"
+      alt="{{ album?.albumName }}"
     />
 
     <ul style="list-style: none;">
       <li>
-        <h2>{{ album?.album_name }}</h2>
+        <h2>{{ album?.albumName }}</h2>
       </li>
       <li>{{ album?.artist }}</li>
       <li>Year Released: {{ album?.year }}</li>
@@ -28,8 +28,8 @@
       </thead>
       <tbody *ngIf="album">
         <tr *ngFor="let track of album.tracks">
-          <th scope="row">{{ track.track_number }}</th>
-          <td>{{ track.Title }}</td>
+          <th scope="row">{{ track.trackNumber }}</th>
+          <td>{{ track.title }}</td>
           <td>{{ track.length }}</td>
         </tr>
       </tbody>

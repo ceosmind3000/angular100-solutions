@@ -1,6 +1,7 @@
 import { Component, OnInit } from "@angular/core";
 import { ActivatedRoute } from "@angular/router";
-import { AlbumService } from "../album.service";
+
+import { AlbumService } from "../shared/album.service";
 import { Album } from "../album.model";
 
 @Component({

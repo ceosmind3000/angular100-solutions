@@ -1,4 +1,5 @@
 import { Component, OnInit, Input, Output, EventEmitter } from "@angular/core";
+
 import { Album } from "../album.model";
 
 @Component({
@@ -13,9 +14,7 @@ export class AlbumCardComponent implements OnInit {
   @Output()
   albumClicked: EventEmitter<Album> = new EventEmitter<Album>();
 
-  new_price: number;
-
-  constructor() {}
+  newPrice: number;
 
   showAlbum() {
     this.albumClicked.emit(this.album);
@@ -23,9 +22,8 @@ export class AlbumCardComponent implements OnInit {
 
   ngOnInit() {
     // Check if the album is on sale
-    if (this.album.on_sale) {
+    if (this.album.onSale)
       // Apply 10% discount
-      this.new_price = this.album.price - this.album.price * 0.1;
-    }
+      this.newPrice = this.album.price - (this.album.price * .10);
   }
 }

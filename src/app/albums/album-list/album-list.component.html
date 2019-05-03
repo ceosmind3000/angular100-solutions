@@ -1,9 +1,9 @@
-<div class="container">
+<div class="container-fluid">
   <div class="card-deck">
-    <app-album-card *ngFor="let album of albums"
-      [album]="album" (albumClicked)="getSelectedAlbum($event)"
-      [album]="album" [ngStyle]="{'background-color': album.on_sale ? 'orange' : ''}"
-      [ngClass]="{ 'text-success bg-success': album == selectedAlbum }">
-    </app-album-card>
+    <app-album-card
+     *ngFor="let album of albumsArray"
+     [album]="album"
+     (albumClicked)="parentFunctionHandler($event)"
+    ></app-album-card>
   </div>
 </div>

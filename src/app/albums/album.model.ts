@@ -1,14 +1,14 @@
 export interface Album {
   id: number;
   artist: string;
-  album_name: string;
+  albumName: string;
   genre: string;
   price: number;
-  currency: string;
-  on_sale: boolean;
+  currency?: string;
+  onSale: boolean;
   year: number;
-  release_date: string;
-  recording_location: string;
+  releaseDate: string;
+  recordingLocation: string;
   duration: string;
   url: string;
   tracks: Track[];
@@ -16,7 +16,7 @@ export interface Album {
 
 export interface Track {
   id: number;
-  track_number: number;
+  trackNumber: number;
   title: string;
   length: string;
 }

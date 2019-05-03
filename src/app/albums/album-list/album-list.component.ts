@@ -1,8 +1,7 @@
 import { Component, OnInit } from "@angular/core";
 
+import { AlbumService } from "../shared/album.service";
 import { Album } from "../album.model";
-import { AlbumService } from "../album.service";
-import { Observable } from "rxjs";
 
 @Component({
   selector: "app-album-list",
@@ -10,30 +9,22 @@ import { Observable } from "rxjs";
   styleUrls: ["./album-list.component.css"]
 })
 export class AlbumListComponent implements OnInit {
-  albums: Album[];
-  selectedAlbum: Album = null;
+  albumsArray: Album[];
 
-  constructor(private albumService: AlbumService) {}
+  constructor(private albumService: AlbumService) { }
 
-  // Method will allow select and deselect
-  getSelectedAlbum(album: Album) {
-    if (this.selectedAlbum == album) {
-      this.selectedAlbum = null;
-    } else {
-      this.selectedAlbum = album;
-    }
+  ngOnInit(): void {
+    this.getAlbums();
+   }
+
+   parentFunctionHandler(album) {
+    alert('Album ' + album.albumName + ' was sent from the album card component');
   }
 
   getAlbums() {
-    this.albumService
-      .getAlbums()
-      .subscribe(
-        albums => (this.albums = albums),
-        error => console.log("Error: ", error)
-      );
-  }
-
-  ngOnInit() {
-    this.getAlbums();
+    this.albumService.getAlbums()
+    .subscribe(
+        albums => this.albumsArray = albums,
+        error => console.log("Error: ", error));
   }
 }
