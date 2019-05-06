@@ -11,6 +11,8 @@ import { AlbumDetailsComponent } from "./albums/album-details/album-details.comp
 import { AboutComponent } from "./about/about.component";
 import { NavbarComponent } from "./navbar/navbar.component";
 import { NotfoundComponent } from './notfound/notfound.component';
+import { AddAlbumComponent } from './albums/add-album.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { NotfoundComponent } from './notfound/notfound.component';
     AlbumDetailsComponent,
     AboutComponent,
     NavbarComponent,
-    NotfoundComponent
+    NotfoundComponent,
+    AddAlbumComponent,
+    LoginComponent
   ],
   imports: [BrowserModule, HttpClientModule, AppRoutingModule],
   providers: [AlbumService],
