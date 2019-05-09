@@ -11,6 +11,7 @@ import { Album } from "../album.model";
 })
 export class AlbumDetailsComponent implements OnInit {
   album: Album;
+  newPrice: number;
 
   constructor(
     private route: ActivatedRoute,
@@ -33,5 +34,14 @@ export class AlbumDetailsComponent implements OnInit {
     //   },
     //   error => console.log("Error: ", error)
     // );
+
+
+  }
+  calculateDiscount() {
+    // Check if the album is on sale
+    if (this.album.onSale) {
+      // Apply 10% discount
+      this.newPrice = this.album.price - this.album.price * 0.1;
+    }
   }
 }

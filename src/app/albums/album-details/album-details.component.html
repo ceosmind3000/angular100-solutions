@@ -1,20 +1,34 @@
 <div class="container">
   <div class="row">
+    <div class="col-sm">
     <img
       *ngIf="album"
-      class="float-right img-fluid"
+
+      class="float-left img-thumbnail"
       src="assets/img/{{ album.id }}.jpg"
       alt="{{ album?.albumName }}"
     />
-
+  </div>
+  <div class="col-sm">
     <ul style="list-style: none;">
       <li>
         <h2>{{ album?.albumName }}</h2>
       </li>
       <li>{{ album?.artist }}</li>
       <li>Year Released: {{ album?.year }}</li>
+      <li>
+        <span *ngIf="album.onSale" style="text-decoration:line-through;">
+          {{ album.price | number: "1.1-2" | currency: album.currency }}
+        </span>
+        {{
+          (album.onSale ? newPrice : album.price)
+            | number: "1.2-2"
+            | currency: album.currency
+        }}
+      </li>
     </ul>
   </div>
+</div>
 
   <div class="row">
     <h4>Tracks</h4>
