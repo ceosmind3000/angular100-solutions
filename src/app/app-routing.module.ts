@@ -13,8 +13,6 @@ const routes: Routes = [
   { path: "about", component: AboutComponent },
   { path: "albums", component: AlbumListComponent },
   { path: "albums/:id", component: AlbumDetailsComponent },
-  { path: "add-albums", component: AddAlbumComponent },
-  { path: "login", component: LoginComponent },
   { path: "**", component: NotfoundComponent, pathMatch: "full" },
 
 ];
